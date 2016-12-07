@@ -1,0 +1,6 @@
+C:\Users\Катя\Desktop\Astafieva_2\Astafieva_2\bin\Debug\Astafieva_2.exe.config
+C:\Users\Катя\Desktop\Astafieva_2\Astafieva_2\bin\Debug\Astafieva_2.exe
+C:\Users\Катя\Desktop\Astafieva_2\Astafieva_2\bin\Debug\Astafieva_2.pdb
+C:\Users\Катя\Desktop\Astafieva_2\Astafieva_2\obj\Debug\Astafieva_2.csprojResolveAssemblyReference.cache
+C:\Users\Катя\Desktop\Astafieva_2\Astafieva_2\obj\Debug\Astafieva_2.exe
+C:\Users\Катя\Desktop\Astafieva_2\Astafieva_2\obj\Debug\Astafieva_2.pdb
